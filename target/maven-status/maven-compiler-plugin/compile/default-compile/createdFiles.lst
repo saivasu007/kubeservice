@@ -1,0 +1,9 @@
+com/learn/kubernetes/rest/resource/KubeResource.class
+com/learn/kubernetes/CommandLineAppStartupRunner.class
+com/learn/kubernetes/rest/service/KubeService.class
+com/learn/kubernetes/KubeserviceApplication.class
+com/learn/kubernetes/rest/service/KubeServiceImpl.class
+com/learn/kubernetes/model/KubeV1Metadata.class
+com/learn/kubernetes/model/Links.class
+com/learn/kubernetes/model/Link.class
+com/learn/kubernetes/config/KubeApplicationConfig.class

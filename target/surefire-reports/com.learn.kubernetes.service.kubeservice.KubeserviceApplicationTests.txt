@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learn.kubernetes.service.kubeservice.KubeserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.396 sec - in com.learn.kubernetes.service.kubeservice.KubeserviceApplicationTests
